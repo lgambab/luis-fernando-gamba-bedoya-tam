@@ -1,0 +1,23 @@
+# Entornos virtuales y caches de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Archivos de herramientas y sistemas operativos
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+
+# Salidas generadas
+*.log
+dist/
+build/
+*.egg-info/
