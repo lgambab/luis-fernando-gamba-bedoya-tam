@@ -1,0 +1,7 @@
+{
+  "test_loss": 0.02685549296438694,
+  "test_accuracy": 0.9907000064849854,
+  "epochs": 5,
+  "batch_size": 128,
+  "architecture": "28x28x1 -> Conv32 -> Pool -> Conv64 -> Pool -> Dense64 -> Dense10"
+}

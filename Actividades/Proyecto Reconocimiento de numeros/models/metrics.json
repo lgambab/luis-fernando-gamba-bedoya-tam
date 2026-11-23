@@ -1,6 +1,0 @@
-{
-  "test_loss": 0.09746207296848297,
-  "test_accuracy": 0.9714000225067139,
-  "epochs": 10,
-  "batch_size": 128
-}

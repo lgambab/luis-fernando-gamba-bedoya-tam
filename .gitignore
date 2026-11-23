@@ -21,3 +21,7 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# Aplicación React/Express
+node_modules/
+dist/
